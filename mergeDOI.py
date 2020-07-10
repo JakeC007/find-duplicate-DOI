@@ -1,8 +1,17 @@
 import re 
+import xlrd
 
 def main():
   outputlst = []
   doiDict = {}
+  wb = xlrd.open_workbook("RAISE_NO_MERGE.xlsx")
+  
+  #loop through the three sheets 
+  for j in wb.nsheets-1:
+    sheet = wb.sheet_by_index(j)
+    for i in range(1,sheet.nrows):
+  
+  
  
   #read from file
   fInput = open('input.txt', 'r')
