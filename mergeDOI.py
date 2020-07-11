@@ -36,7 +36,7 @@ def main():
         deleteCell(sb, index, row, col)
 
 """
-delets a cell
+Overwrites a cell.
 @param: index - the sheet's index in the excell file. Sheet 1 is index = 0
 @param: row
 @param: col
