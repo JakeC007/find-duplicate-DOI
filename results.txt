@@ -1,0 +1,618 @@
+There are 555 citations
+There are 122 duplicates
+
+List of Duplicates:
+
+Sheet Title: Transparency
+
+Nikolas Martelaro, Victoria C. Nneji, Wendy Ju, and Pamela Hinds. 2016. Tell Me More: Designing HRI to Encourage More Trust, Disclosure, and Companionship. In The Eleventh ACM/IEEE International Conference on Human Robot Interaction (HRI ’16). IEEE Press, 181–188.
+-------------------------------------
+
+Sheet Title: Transparency
+
+Yi-Chieh Lee, Naomi Yamashita, Yun Huang, and Wai Fu. 2020. “I Hear You, I Feel You”: Encouraging Deep Self-disclosure through a Chatbot. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–12. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3313831.3376175
+-------------------------------------
+
+Sheet Title: Transparency
+
+Fernando E.B. Otero and Alex A. Freitas. 2013. Improving the interpretability of classification rules discovered by an ant colony algorithm. In Proceedings of the 15th annual conference on Genetic and evolutionary computation (GECCO ’13). Association for Computing Machinery, New York, NY, USA, 73–80. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/2463372.2463382
+-------------------------------------
+
+Sheet Title: Transparency
+
+Rafael Poyiadzi, Kacper Sokol, Raul Santos-Rodriguez, Tijl De Bie, and Peter Flach. 2020. FACE: Feasible and Actionable Counterfactual Explanations. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES ’20). Association for Computing Machinery, New York, NY, USA, 344–350. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3375627.3375850
+-------------------------------------
+
+Sheet Title: Transparency
+
+Tim Donkers, Benedikt Loepp, and Jürgen Ziegler. 2016. Tag-Enhanced Collaborative Filtering for Increasing Transparency and Interactive Control. In Proceedings of the 2016 Conference on User Modeling Adaptation and Personalization (UMAP ’16). Association for Computing Machinery, New York, NY, USA, 169–173. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/2930238.2930287
+-------------------------------------
+
+Sheet Title: Transparency
+
+Daniel Karpati, Amro Najjar, and Diego Agustin Ambrossio. 2020. Ethics of Food Recommender Applications. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES ’20). Association for Computing Machinery, New York, NY, USA, 313–319. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3375627.3375874
+-------------------------------------
+
+Sheet Title: Transparency
+
+Caroline L. van Straten, Jochen Peter, Rinaldo Kühne, and Alex Barco. 2020. Transparency about a Robot’s Lack of Human Psychological Capacities: Effects on Child-Robot Perception and Relationship Formation. J. Hum.-Robot Interact. 9, 2, Article 11 (February 2020), 22 pages. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3365668
+-------------------------------------
+
+Sheet Title: Transparency
+
+Solmaz Abdi, Hassan Khosravi, Shazia Sadiq, and Dragan Gasevic. 2020. Complementing educational recommender systems with open learner models. In Proceedings of the Tenth International Conference on Learning Analytics & Knowledge (LAK ’20). Association for Computing Machinery, New York, NY, USA, 360–365. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3375462.3375520
+-------------------------------------
+
+Sheet Title: Transparency
+
+Tobias Urban, Martin Degeling, Thorsten Holz, and Norbert Pohlmann. 2019. “Your hashed IP address: Ubuntu.”: perspectives on transparency tools for online advertising. In Proceedings of the 35th Annual Computer Security Applications Conference (ACSAC ’19). Association for Computing Machinery, New York, NY, USA, 702–717. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3359789.3359798
+-------------------------------------
+
+Sheet Title: Transparency
+
+Alberto Castellini, Francesco Masillo, Riccardo Sartea, and Alessandro Farinelli. 2019. EXplainable Modeling (XM): Data Analysis for Intelligent Agents. In Proceedings of the 18th International Conference on Autonomous Agents and MultiAgent Systems (AAMAS ’19). International Foundation for Autonomous Agents and Multiagent Systems, Richland, SC, 2342–2344.
+-------------------------------------
+
+Sheet Title: Transparency
+
+Daniel Holliday, Stephanie Wilson, and Simone Stumpf. 2016. User Trust in Intelligent Systems: A Journey Over Time. In Proceedings of the 21st International Conference on Intelligent User Interfaces (IUI ’16). Association for Computing Machinery, New York, NY, USA, 164–168. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/2856767.2856811
+-------------------------------------
+
+Sheet Title: Transparency
+
+Matthew Marshall, John Vines, Pete Wright, David S. Kirk, Toby Lowe, and Rob Wilson. 2018. Accountability Work: Examining the Values, Technologies and Work Practices that Facilitate Transparency in Charities. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI ’18). Association for Computing Machinery, New York, NY, USA, Paper 275, 1–12. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3173574.3173849
+-------------------------------------
+
+Sheet Title: Transparency
+
+Hannah Sassaman, Jennifer Lee, Jenessa Irvine, and Shankar Narayan. 2020. Creating community-based tech policy: case studies, lessons learned, and what technologists and communities can do together. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* ’20). Association for Computing Machinery, New York, NY, USA, 685. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3351095.3375689
+-------------------------------------
+
+Sheet Title: Transparency
+
+Chih-Hong Cheng, Georg Nührenberg, Chung-Hao Huang, Harald Ruess, and Hirotoshi Yasuoka. 2018. Towards dependability metrics for neural networks. In Proceedings of the 16th ACM-IEEE International Conference on Formal Methods and Models for System Design (MEMOCODE ’18). IEEE Press, 43–46.
+-------------------------------------
+
+Sheet Title: Transparency
+
+Andrea Bunt, Matthew Lount, and Catherine Lauzon. 2012. Are explanations always important? a study of deployed, low-cost intelligent interactive systems. In Proceedings of the 2012 ACM international conference on Intelligent User Interfaces (IUI ’12). Association for Computing Machinery, New York, NY, USA, 169–178. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/2166966.2166996
+-------------------------------------
+
+Sheet Title: Transparency
+
+Nikolas Martelaro, Victoria C. Nneji, Wendy Ju, and Pamela Hinds. 2016. Tell Me More: Designing HRI to Encourage More Trust, Disclosure, and Companionship. In The Eleventh ACM/IEEE International Conference on Human Robot Interaction (HRI ’16). IEEE Press, 181–188.
+-------------------------------------
+
+Sheet Title: Transparency
+
+Yi-Chieh Lee, Naomi Yamashita, Yun Huang, and Wai Fu. 2020. “I Hear You, I Feel You”: Encouraging Deep Self-disclosure through a Chatbot. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–12. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3313831.3376175
+-------------------------------------
+
+Sheet Title: Transparency
+
+Fernando E.B. Otero and Alex A. Freitas. 2013. Improving the interpretability of classification rules discovered by an ant colony algorithm. In Proceedings of the 15th annual conference on Genetic and evolutionary computation (GECCO ’13). Association for Computing Machinery, New York, NY, USA, 73–80. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/2463372.2463382
+-------------------------------------
+
+Sheet Title: Transparency
+
+Rafael Poyiadzi, Kacper Sokol, Raul Santos-Rodriguez, Tijl De Bie, and Peter Flach. 2020. FACE: Feasible and Actionable Counterfactual Explanations. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES ’20). Association for Computing Machinery, New York, NY, USA, 344–350. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3375627.3375850
+-------------------------------------
+
+Sheet Title: Transparency
+
+Tim Donkers, Benedikt Loepp, and Jürgen Ziegler. 2016. Tag-Enhanced Collaborative Filtering for Increasing Transparency and Interactive Control. In Proceedings of the 2016 Conference on User Modeling Adaptation and Personalization (UMAP ’16). Association for Computing Machinery, New York, NY, USA, 169–173. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/2930238.2930287
+-------------------------------------
+
+Sheet Title: Transparency
+
+Daniel Karpati, Amro Najjar, and Diego Agustin Ambrossio. 2020. Ethics of Food Recommender Applications. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES ’20). Association for Computing Machinery, New York, NY, USA, 313–319. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3375627.3375874
+-------------------------------------
+
+Sheet Title: Transparency
+
+Caroline L. van Straten, Jochen Peter, Rinaldo Kühne, and Alex Barco. 2020. Transparency about a Robot’s Lack of Human Psychological Capacities: Effects on Child-Robot Perception and Relationship Formation. J. Hum.-Robot Interact. 9, 2, Article 11 (February 2020), 22 pages. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3365668
+-------------------------------------
+
+Sheet Title: Transparency
+
+Solmaz Abdi, Hassan Khosravi, Shazia Sadiq, and Dragan Gasevic. 2020. Complementing educational recommender systems with open learner models. In Proceedings of the Tenth International Conference on Learning Analytics & Knowledge (LAK ’20). Association for Computing Machinery, New York, NY, USA, 360–365. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3375462.3375520
+-------------------------------------
+
+Sheet Title: Transparency
+
+Tobias Urban, Martin Degeling, Thorsten Holz, and Norbert Pohlmann. 2019. “Your hashed IP address: Ubuntu.”: perspectives on transparency tools for online advertising. In Proceedings of the 35th Annual Computer Security Applications Conference (ACSAC ’19). Association for Computing Machinery, New York, NY, USA, 702–717. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3359789.3359798
+-------------------------------------
+
+Sheet Title: Transparency
+
+Alberto Castellini, Francesco Masillo, Riccardo Sartea, and Alessandro Farinelli. 2019. EXplainable Modeling (XM): Data Analysis for Intelligent Agents. In Proceedings of the 18th International Conference on Autonomous Agents and MultiAgent Systems (AAMAS ’19). International Foundation for Autonomous Agents and Multiagent Systems, Richland, SC, 2342–2344.
+-------------------------------------
+
+Sheet Title: Transparency
+
+Daniel Holliday, Stephanie Wilson, and Simone Stumpf. 2016. User Trust in Intelligent Systems: A Journey Over Time. In Proceedings of the 21st International Conference on Intelligent User Interfaces (IUI ’16). Association for Computing Machinery, New York, NY, USA, 164–168. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/2856767.2856811
+-------------------------------------
+
+Sheet Title: Transparency
+
+Matthew Marshall, John Vines, Pete Wright, David S. Kirk, Toby Lowe, and Rob Wilson. 2018. Accountability Work: Examining the Values, Technologies and Work Practices that Facilitate Transparency in Charities. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI ’18). Association for Computing Machinery, New York, NY, USA, Paper 275, 1–12. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3173574.3173849
+-------------------------------------
+
+Sheet Title: Transparency
+
+Hannah Sassaman, Jennifer Lee, Jenessa Irvine, and Shankar Narayan. 2020. Creating community-based tech policy: case studies, lessons learned, and what technologists and communities can do together. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* ’20). Association for Computing Machinery, New York, NY, USA, 685. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3351095.3375689
+-------------------------------------
+
+Sheet Title: Transparency
+
+Chih-Hong Cheng, Georg Nührenberg, Chung-Hao Huang, Harald Ruess, and Hirotoshi Yasuoka. 2018. Towards dependability metrics for neural networks. In Proceedings of the 16th ACM-IEEE International Conference on Formal Methods and Models for System Design (MEMOCODE ’18). IEEE Press, 43–46.
+-------------------------------------
+
+Sheet Title: Transparency
+
+Andrea Bunt, Matthew Lount, and Catherine Lauzon. 2012. Are explanations always important? a study of deployed, low-cost intelligent interactive systems. In Proceedings of the 2012 ACM international conference on Intelligent User Interfaces (IUI ’12). Association for Computing Machinery, New York, NY, USA, 169–178. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/2166966.2166996
+-------------------------------------
+
+Sheet Title: Fairness
+
+Kacper Sokol. 2019. Fairness, Accountability and Transparency in Artificial Intelligence: A Case Study of Logical Predictive Models. In Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society (AIES ’19). Association for Computing Machinery, New York, NY, USA, 541–542. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3306618.3314316
+-------------------------------------
+
+Sheet Title: Fairness
+
+Songül Tolan, Marius Miron, Emilia Gómez, and Carlos Castillo. 2019. Why Machine Learning May Lead to Unfairness: Evidence from Risk Assessment for Juvenile Justice in Catalonia. In Proceedings of the Seventeenth International Conference on Artificial Intelligence and Law (ICAIL ’19). Association for Computing Machinery, New York, NY, USA, 83–92. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3322640.3326705
+-------------------------------------
+
+Sheet Title: Fairness
+
+Michelle Seng Ah Lee. 2019. Context-conscious fairness in using machine learning to make decisions. AI Matters 5, 2 (June 2019), 23–29. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3340470.3340477
+-------------------------------------
+
+Sheet Title: Fairness
+
+Sushant Kafle, Abraham Glasser, Sedeeq Al-khazraji, Larwan Berke, Matthew Seita, and Matt Huenerfauth. 2020. Artificial intelligence fairness in the context of accessibility research on intelligent systems for people who are deaf or hard of hearing. SIGACCESS Access. Comput., 125, Article 4 (October 2019), 1 pages. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3386296.3386300
+-------------------------------------
+
+Sheet Title: Fairness
+
+Shubham Sharma, Jette Henderson, and Joydeep Ghosh. 2020. CERTIFAI: A Common Framework to Provide Explanations and Analyse the Fairness and Robustness of Black-box Models. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES ’20). Association for Computing Machinery, New York, NY, USA, 166–172. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3375627.3375812
+-------------------------------------
+
+Sheet Title: Fairness
+
+Inioluwa Deborah Raji and Joy Buolamwini. 2019. Actionable Auditing: Investigating the Impact of Publicly Naming Biased Performance Results of Commercial AI Products. In Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society (AIES ’19). Association for Computing Machinery, New York, NY, USA, 429–435. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3306618.3314244
+-------------------------------------
+
+Sheet Title: Fairness
+
+R. Stuart Geiger, Kevin Yu, Yanlai Yang, Mindy Dai, Jie Qiu, Rebekah Tang, and Jenny Huang. 2020. Garbage in, garbage out? do machine learning application papers in social computing report where human-labeled training data comes from? In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* ’20). Association for Computing Machinery, New York, NY, USA, 325–336. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3351095.3372862
+-------------------------------------
+
+Sheet Title: Fairness
+
+Maya Indira Ganesh, Francien Dechesne, and Zeerak Waseem. 2020. Two computer scientists and a cultural scientist get hit by a driver-less car: a method for situating knowledge in the cross-disciplinary study of F-A-T in machine learning: translation tutorial. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* ’20). Association for Computing Machinery, New York, NY, USA, 707. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3351095.3375663
+-------------------------------------
+
+Sheet Title: Fairness
+
+Dallas Card, Michael Zhang, and Noah A. Smith. 2019. Deep Weighted Averaging Classifiers. In Proceedings of the Conference on Fairness, Accountability, and Transparency (FAT* ’19). Association for Computing Machinery, New York, NY, USA, 369–378. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3287560.3287595
+-------------------------------------
+
+Sheet Title: Fairness
+
+Michael P. Kim, Amirata Ghorbani, and James Zou. 2019. Multiaccuracy: Black-Box Post-Processing for Fairness in Classification. In Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society (AIES ’19). Association for Computing Machinery, New York, NY, USA, 247–254. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3306618.3314287
+-------------------------------------
+
+Sheet Title: Fairness
+
+Gunay Kazimzade and Milagros Miceli. 2020. Biased Priorities, Biased Outcomes: Three Recommendations for Ethics-oriented Data Annotation Practices. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES ’20). Association for Computing Machinery, New York, NY, USA, 71. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3375627.3375809
+-------------------------------------
+
+Sheet Title: Fairness
+
+Diego Celis and Meghana Rao. 2019. Learning Facial Recognition Biases through VAE Latent Representations. In Proceedings of the 1st International Workshop on Fairness, Accountability, and Transparency in MultiMedia (FAT/MM ’19). Association for Computing Machinery, New York, NY, USA, 26–32. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3347447.3356752
+-------------------------------------
+
+Sheet Title: Fairness
+
+Alison Smith-Renner, Styliani Kleanthous, Brian Lim, Tsvi Kuflik, Simone Stumpf, Jahna Otterbacher, Advait Sarkar, Casey Dugan, and Avital Shulner. 2020. ExSS-ATEC: Explainable Smart Systems for Algorithmic Transparency in Emerging Technologies 2020. In Proceedings of the 25th International Conference on Intelligent User Interfaces Companion (IUI ’20). Association for Computing Machinery, New York, NY, USA, 7–8. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3379336.3379361
+-------------------------------------
+
+Sheet Title: Fairness
+
+Alexandra Reeve Givens and Meredith Ringel Morris. 2020. Centering disability perspectives in algorithmic fairness, accountability, & transparency. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* ’20). Association for Computing Machinery, New York, NY, USA, 684. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3351095.3375686
+-------------------------------------
+
+Sheet Title: Fairness
+
+Reuben Binns, Max Van Kleek, Michael Veale, Ulrik Lyngs, Jun Zhao, and Nigel Shadbolt. 2018. “It’s Reducing a Human Being to a Percentage”: Perceptions of Justice in Algorithmic Decisions. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI ’18). Association for Computing Machinery, New York, NY, USA, Paper 377, 1–14. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3173574.3173951
+-------------------------------------
+
+Sheet Title: Fairness
+
+Yongkai Wu, Lu Zhang, and Xintao Wu. 2018. On Discrimination Discovery and Removal in Ranked Data using Causal Graph. In Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD ’18). Association for Computing Machinery, New York, NY, USA, 2536–2544. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3219819.3220087
+-------------------------------------
+
+Sheet Title: Fairness
+
+Claire S. Lee, Jeremy Du, and Michael Guerzhoy. 2020. Auditing the COMPAS Recidivism Risk Assessment Tool: Predictive Modelling and Algorithmic Fairness in CS1. In Proceedings of the 2020 ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE ’20). Association for Computing Machinery, New York, NY, USA, 535–536. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3341525.3393998
+-------------------------------------
+
+Sheet Title: Fairness
+
+Bhanu Jain, Manfred Huber, Ramez A. Elmasri, and Leonidas Fegaras. 2020. Reducing race-based bias and increasing recidivism prediction accuracy by using past criminal history details. In Proceedings of the 13th ACM International Conference on PErvasive Technologies Related to Assistive Environments (PETRA ’20). Association for Computing Machinery, New York, NY, USA, Article 55, 1–8. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3389189.3397990
+-------------------------------------
+
+Sheet Title: Fairness
+
+Efrén Cruz Cortés and Debashis Ghosh. 2020. An Invitation to System-wide Algorithmic Fairness. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES ’20). Association for Computing Machinery, New York, NY, USA, 235–241. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3375627.3375860
+-------------------------------------
+
+Sheet Title: Fairness
+
+Alexandra Reeve Givens and Meredith Ringel Morris. 2020. Centering disability perspectives in algorithmic fairness, accountability, & transparency. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* ’20). Association for Computing Machinery, New York, NY, USA, 684. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3351095.3375686
+-------------------------------------
+
+Sheet Title: Fairness
+
+Nathaniel Swinger, Maria De-Arteaga, Neil Thomas Heffernan IV, Mark DM Leiserson, and Adam Tauman Kalai. 2019. What are the Biases in My Word Embedding? In Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society (AIES ’19). Association for Computing Machinery, New York, NY, USA, 305–311. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3306618.3314270
+-------------------------------------
+
+Sheet Title: Fairness
+
+Doris Allhutter and Bettina Berendt. 2020. Deconstructing FAT: using memories to collectively explore implicit assumptions, values and context in practices of debiasing and discrimination-awareness. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* ’20). Association for Computing Machinery, New York, NY, USA, 687. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3351095.3375688
+-------------------------------------
+
+Sheet Title: Fairness
+
+Margot E. Kaminski and Gianclaudio Malgieri. 2020. Multi-layered explanations from algorithmic impact assessments in the GDPR. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* ’20). Association for Computing Machinery, New York, NY, USA, 68–79. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3351095.3372875
+-------------------------------------
+
+Sheet Title: Fairness
+
+Mark Sendak, Madeleine Clare Elish, Michael Gao, Joseph Futoma, William Ratliff, Marshall Nichols, Armando Bedoya, Suresh Balu, and Cara O’Brien. 2020. “The human body is a black box”: supporting clinical decision-making with deep learning. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* ’20). Association for Computing Machinery, New York, NY, USA, 99–109. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3351095.3372827
+-------------------------------------
+
+Sheet Title: Fairness
+
+Shawn Joshi, Ewart J. de Visser, Benjamin Abramoff, and Hasan Ayaz. 2020. Medical Interviewing with a Robot Instead of a Doctor: Who do We Trust More with Sensitive Information? In Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI ’20). Association for Computing Machinery, New York, NY, USA, 570–572. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3371382.3377441
+-------------------------------------
+
+Sheet Title: Fairness
+
+Maria Panteli. 2019. Recommendation systems compliant with legal and editorial policies: the BBC+ app journey. In Proceedings of the 13th ACM Conference on Recommender Systems (RecSys ’19). Association for Computing Machinery, New York, NY, USA, 529. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3298689.3346961
+-------------------------------------
+
+Sheet Title: Fairness
+
+S. Udeshi, P. Arora and S. Chattopadhyay, "Automated Directed Fairness Testing," 2018 33rd IEEE/ACM International Conference on Automated Software Engineering (ASE), Montpellier, France, 2018, pp. 98-108. doi: 10.1145/3238147.3238165 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9000070&isnumber=8999840
+-------------------------------------
+
+Sheet Title: Fairness
+
+C. V. Gonzalez Zelaya, "Towards Explaining the Effects of Data Preprocessing on Machine Learning," 2019 IEEE 35th International Conference on Data Engineering (ICDE), Macao, Macao, 2019, pp. 2086-2090. doi: 10.1109/ICDE.2019.00245 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8731532&isnumber=8731337
+-------------------------------------
+
+Sheet Title: Non-maleficience
+
+R. Stuart Geiger, Kevin Yu, Yanlai Yang, Mindy Dai, Jie Qiu, Rebekah Tang, and Jenny Huang. 2020. Garbage in, garbage out? do machine learning application papers in social computing report where human-labeled training data comes from? In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* ’20). Association for Computing Machinery, New York, NY, USA, 325–336. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3351095.3372862
+-------------------------------------
+
+Sheet Title: Non-maleficience
+
+Inioluwa Deborah Raji, Andrew Smart, Rebecca N. White, Margaret Mitchell, Timnit Gebru, Ben Hutchinson, Jamila Smith-Loud, Daniel Theron, and Parker Barnes. 2020. Closing the AI accountability gap: defining an end-to-end framework for internal algorithmic auditing. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* ’20). Association for Computing Machinery, New York, NY, USA, 33–44. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3351095.3372873
+-------------------------------------
+
+Sheet Title: Non-maleficience
+
+Michael P. Kim, Amirata Ghorbani, and James Zou. 2019. Multiaccuracy: Black-Box Post-Processing for Fairness in Classification. In Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society (AIES ’19). Association for Computing Machinery, New York, NY, USA, 247–254. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3306618.3314287
+-------------------------------------
+
+Sheet Title: Non-maleficience
+
+Kacper Sokol and Peter Flach. 2020. Explainability fact sheets: a framework for systematic assessment of explainable approaches. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* ’20). Association for Computing Machinery, New York, NY, USA, 56–67. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3351095.3372870
+-------------------------------------
+
+Sheet Title: Non-maleficience
+
+Zhiyuan Lin, Alex Chohlas-Wood, and Sharad Goel. 2019. Guiding Prosecutorial Decisions with an Interpretable Statistical Model. In Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society (AIES ’19). Association for Computing Machinery, New York, NY, USA, 469–476. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3306618.3314235
+-------------------------------------
+
+Sheet Title: Non-maleficience
+
+Krishna Gade, Sahin Cem Geyik, Krishnaram Kenthapadi, Varun Mithal, and Ankur Taly. 2019. Explainable AI in Industry. In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD ’19). Association for Computing Machinery, New York, NY, USA, 3203–3204. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3292500.3332281
+-------------------------------------
+
+Sheet Title: Non-maleficience
+
+Emily Black, Samuel Yeom, and Matt Fredrikson. 2020. FlipTest: fairness testing via optimal transport. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* ’20). Association for Computing Machinery, New York, NY, USA, 111–121. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3351095.3372845
+-------------------------------------
+
+Sheet Title: Non-maleficience
+
+Inioluwa Deborah Raji, Timnit Gebru, Margaret Mitchell, Joy Buolamwini, Joonseok Lee, and Emily Denton. 2020. Saving Face: Investigating the Ethical Concerns of Facial Recognition Auditing. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES ’20). Association for Computing Machinery, New York, NY, USA, 145–151. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3375627.3375820
+-------------------------------------
+
+Sheet Title: Non-maleficience
+
+Chih-Hong Cheng, Georg Nührenberg, Chung-Hao Huang, Harald Ruess, and Hirotoshi Yasuoka. 2018. Towards dependability metrics for neural networks. In Proceedings of the 16th ACM-IEEE International Conference on Formal Methods and Models for System Design (MEMOCODE ’18). IEEE Press, 43–46.
+-------------------------------------
+
+Sheet Title: Non-maleficience
+
+Gunay Kazimzade and Milagros Miceli. 2020. Biased Priorities, Biased Outcomes: Three Recommendations for Ethics-oriented Data Annotation Practices. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES ’20). Association for Computing Machinery, New York, NY, USA, 71. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3375627.3375809
+-------------------------------------
+
+Sheet Title: Non-maleficience
+
+Krishna Gade, Sahin Geyik, Krishnaram Kenthapadi, Varun Mithal, and Ankur Taly. 2020. Explainable AI in Industry: Practical Challenges and Lessons Learned. In Companion Proceedings of the Web Conference 2020 (WWW ’20). Association for Computing Machinery, New York, NY, USA, 303–304. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3366424.3383110
+-------------------------------------
+
+Sheet Title: Non-maleficience
+
+Adrienne Colborne and Michael Smit. 2020. Characterizing Disinformation Risk to Open Data in the Post-Truth Era. J. Data and Information Quality 12, 3, Article 13 (June 2020), 13 pages. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3328747
+-------------------------------------
+
+Sheet Title: Non-maleficience
+
+Wenbo Guo, Dongliang Mu, Jun Xu, Purui Su, Gang Wang, and Xinyu Xing. 2018. LEMNA: Explaining Deep Learning based Security Applications. In Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security (CCS ’18). Association for Computing Machinery, New York, NY, USA, 364–379. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3243734.3243792
+-------------------------------------
+
+Sheet Title: Non-maleficience
+
+Krishna Gade, Sahin Cem Geyik, Krishnaram Kenthapadi, Varun Mithal, and Ankur Taly. 2020. Explainable AI in industry: practical challenges and lessons learned: implications tutorial. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* ’20). Association for Computing Machinery, New York, NY, USA, 699. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3351095.3375664
+-------------------------------------
+
+Sheet Title: Responsibility
+
+Kacper Sokol. 2019. Fairness, Accountability and Transparency in Artificial Intelligence: A Case Study of Logical Predictive Models. In Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society (AIES ’19). Association for Computing Machinery, New York, NY, USA, 541–542. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3306618.3314316
+-------------------------------------
+
+Sheet Title: Responsibility
+
+Inioluwa Deborah Raji, Andrew Smart, Rebecca N. White, Margaret Mitchell, Timnit Gebru, Ben Hutchinson, Jamila Smith-Loud, Daniel Theron, and Parker Barnes. 2020. Closing the AI accountability gap: defining an end-to-end framework for internal algorithmic auditing. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* ’20). Association for Computing Machinery, New York, NY, USA, 33–44. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3351095.3372873
+-------------------------------------
+
+Sheet Title: Responsibility
+
+Brett W. Israelsen and Nisar R. Ahmed. 2019. “Dave...I can assure you ...that it’s going to be all right ...” A Definition, Case for, and Survey of Algorithmic Assurances in Human-Autonomy Trust Relationships. ACM Comput. Surv. 51, 6, Article 113 (February 2019), 37 pages. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3267338
+-------------------------------------
+
+Sheet Title: Responsibility
+
+José Mena Roldán, Oriol Pujol Vila, and Jordi Vitrià Marca. 2020. Dirichlet uncertainty wrappers for actionable algorithm accuracy accountability and auditability. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* ’20). Association for Computing Machinery, New York, NY, USA, 581. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3351095.3372825
+-------------------------------------
+
+Sheet Title: Responsibility
+
+Alison Smith-Renner, Styliani Kleanthous, Brian Lim, Tsvi Kuflik, Simone Stumpf, Jahna Otterbacher, Advait Sarkar, Casey Dugan, and Avital Shulner. 2020. ExSS-ATEC: Explainable Smart Systems for Algorithmic Transparency in Emerging Technologies 2020. In Proceedings of the 25th International Conference on Intelligent User Interfaces Companion (IUI ’20). Association for Computing Machinery, New York, NY, USA, 7–8. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3379336.3379361
+-------------------------------------
+
+Sheet Title: Responsibility
+
+Katarzyna Szymielewicz, Anna Bacciarelli, Fanny Hidvegi, Agata Foryciarz, Soizic Pénicaud, and Matthias Spielkamp. 2020. Where do algorithmic accountability and explainability frameworks take us in the real world? from theory to practice. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* ’20). Association for Computing Machinery, New York, NY, USA, 689. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3351095.3375683
+-------------------------------------
+
+Sheet Title: Responsibility
+
+Margot E. Kaminski and Gianclaudio Malgieri. 2020. Multi-layered explanations from algorithmic impact assessments in the GDPR. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* ’20). Association for Computing Machinery, New York, NY, USA, 68–79. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3351095.3372875
+-------------------------------------
+
+Sheet Title: Responsibility
+
+Mark Sendak, Madeleine Clare Elish, Michael Gao, Joseph Futoma, William Ratliff, Marshall Nichols, Armando Bedoya, Suresh Balu, and Cara O’Brien. 2020. “The human body is a black box”: supporting clinical decision-making with deep learning. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* ’20). Association for Computing Machinery, New York, NY, USA, 99–109. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3351095.3372827
+-------------------------------------
+
+Sheet Title: Responsibility
+
+Florian Cech. 2020. Beyond Transparency: Exploring Algorithmic Accountability. In Companion of the 2020 ACM International Conference on Supporting Group Work (GROUP ’20). Association for Computing Machinery, New York, NY, USA, 11–14. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3323994.3371015
+-------------------------------------
+
+Sheet Title: Responsibility
+
+Hoda Heidari, Michele Loi, Krishna P. Gummadi, and Andreas Krause. 2019. A Moral Framework for Understanding Fair ML through Economic Models of Equality of Opportunity. In Proceedings of the Conference on Fairness, Accountability, and Transparency (FAT* ’19). Association for Computing Machinery, New York, NY, USA, 181–190. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3287560.3287584
+-------------------------------------
+
+Sheet Title: Responsibility
+
+Doris Allhutter and Bettina Berendt. 2020. Deconstructing FAT: using memories to collectively explore implicit assumptions, values and context in practices of debiasing and discrimination-awareness. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* ’20). Association for Computing Machinery, New York, NY, USA, 687. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3351095.3375688
+-------------------------------------
+
+Sheet Title: Responsibility
+
+Samir Passi and Solon Barocas. 2019. Problem Formulation and Fairness. In Proceedings of the Conference on Fairness, Accountability, and Transparency (FAT* ’19). Association for Computing Machinery, New York, NY, USA, 39–48. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3287560.3287567
+-------------------------------------
+
+Sheet Title: Responsibility
+
+Alexander D’Amour, Hansa Srinivasan, James Atwood, Pallavi Baljekar, D. Sculley, and Yoni Halpern. 2020. Fairness is not static: deeper understanding of long term fairness via simulation studies. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* ’20). Association for Computing Machinery, New York, NY, USA, 525–534. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3351095.3372878
+-------------------------------------
+
+Sheet Title: Responsibility
+
+Alex Kayal, Willem-Paul Brinkman, Mark A. Neerincx, and M. Birna Van Riemsdijk. 2018. Automatic Resolution of Normative Conflicts in Supportive Technology Based on User Values. ACM Trans. Internet Technol. 18, 4, Article 41 (November 2018), 21 pages. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3158371
+-------------------------------------
+
+Sheet Title: Privacy
+
+Depeng Xu, Shuhan Yuan, and Xintao Wu. 2019. Achieving Differential Privacy and Fairness in Logistic Regression. In Companion Proceedings of The 2019 World Wide Web Conference (WWW ’19). Association for Computing Machinery, New York, NY, USA, 594–599. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3308560.3317584
+-------------------------------------
+
+Sheet Title: Privacy
+
+Kamalika Chaudhuri, Claire Monteleoni, and Anand D. Sarwate. 2011. Differentially Private Empirical Risk Minimization. J. Mach. Learn. Res. 12, null (2/1/2011), 1069–1109.
+-------------------------------------
+
+Sheet Title: Privacy
+
+Tao Zhang and Quanyan Zhu. 2016. A Dual Perturbation Approach for Differential Private ADMM-Based Distributed Empirical Risk Minimization. In Proceedings of the 2016 ACM Workshop on Artificial Intelligence and Security (AISec ’16). Association for Computing Machinery, New York, NY, USA, 129–137. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/2996758.2996762
+-------------------------------------
+
+Sheet Title: Privacy
+
+Milad Nasr, Reza Shokri, and Amir Houmansadr. 2018. Machine Learning with Membership Privacy using Adversarial Regularization. In Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security (CCS ’18). Association for Computing Machinery, New York, NY, USA, 634–646. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3243734.3243855
+-------------------------------------
+
+Sheet Title: Privacy
+
+Kendrick Boyd, Eric Lantz, and David Page. 2015. Differential Privacy for Classifier Evaluation. In Proceedings of the 8th ACM Workshop on Artificial Intelligence and Security (AISec ’15). Association for Computing Machinery, New York, NY, USA, 15–23. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/2808769.2808775
+-------------------------------------
+
+Sheet Title: Privacy
+
+Wei Wang, Fatjon Seraj, Nirvana Meratnia, and Paul J. M. Havinga. 2019. Privacy-aware environmental sound classification for indoor human activity recognition. In Proceedings of the 12th ACM International Conference on PErvasive Technologies Related to Assistive Environments (PETRA ’19). Association for Computing Machinery, New York, NY, USA, 36–44. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3316782.3321521
+-------------------------------------
+
+Sheet Title: Privacy
+
+Mengyao Zheng, Dixing Xu, Linshan Jiang, Chaojie Gu, Rui Tan, and Peng Cheng. 2019. Challenges of Privacy-Preserving Machine Learning in IoT. In Proceedings of the First International Workshop on Challenges in Artificial Intelligence and Machine Learning for Internet of Things (AIChallengeIoT’19). Association for Computing Machinery, New York, NY, USA, 1–7. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3363347.3363357
+-------------------------------------
+
+Sheet Title: Trust
+
+Katharina Weitz, Dominik Schiller, Ruben Schlagowski, Tobias Huber, and Elisabeth André. 2019. “Do you trust me?”: Increasing User-Trust by Integrating Virtual Agents in Explainable AI Interaction Design. In Proceedings of the 19th ACM International Conference on Intelligent Virtual Agents (IVA ’19). Association for Computing Machinery, New York, NY, USA, 7–9. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3308532.3329441
+-------------------------------------
+
+Sheet Title: Trust
+
+Krishna Gade, Sahin Cem Geyik, Krishnaram Kenthapadi, Varun Mithal, and Ankur Taly. 2019. Explainable AI in Industry. In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD ’19). Association for Computing Machinery, New York, NY, USA, 3203–3204. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3292500.3332281
+-------------------------------------
+
+Sheet Title: Trust
+
+Brandon S. Perelman, Arthur W. Evans III, and Kristin E. Schaefer. 2020. Where Do You Think You’re Going? Characterizing Spatial Mental Models from Planned Routes. J. Hum.-Robot Interact. 9, 4, Article 23 (June 2020), 55 pages. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3385008
+-------------------------------------
+
+Sheet Title: Trust
+
+Michael Chromik, Florian Fincke, and Andreas Butz. 2020. Mind the (persuasion) gap: contrasting predictions of intelligent DSS with user beliefs to improve interpretability. In Companion Proceedings of the 12th ACM SIGCHI Symposium on Engineering Interactive Computing Systems (EICS ’20 Companion). Association for Computing Machinery, New York, NY, USA, Article 2, 1–6. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3393672.3398491
+-------------------------------------
+
+Sheet Title: Trust
+
+Sule Anjomshoae, Amro Najjar, Davide Calvaresi, and Kary Främling. 2019. Explainable Agents and Robots: Results from a Systematic Literature Review. In Proceedings of the 18th International Conference on Autonomous Agents and MultiAgent Systems (AAMAS ’19). International Foundation for Autonomous Agents and Multiagent Systems, Richland, SC, 1078–1088.
+-------------------------------------
+
+Sheet Title: Trust
+
+Haeseung Seo, Aiping Xiong, and Dongwon Lee. 2019. Trust It or Not: Effects of Machine-Learning Warnings in Helping Individuals Mitigate Misinformation. In Proceedings of the 10th ACM Conference on Web Science (WebSci ’19). Association for Computing Machinery, New York, NY, USA, 265–274. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3292522.3326012
+-------------------------------------
+
+Sheet Title: Trust
+
+Hoa Khanh Dam, Truyen Tran, and Aditya Ghose. 2018. Explainable software analytics. In Proceedings of the 40th International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER ’18). Association for Computing Machinery, New York, NY, USA, 53–56. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3183399.3183424
+-------------------------------------
+
+Sheet Title: Trust
+
+Harmanpreet Kaur, Harsha Nori, Samuel Jenkins, Rich Caruana, Hanna Wallach, and Jennifer Wortman Vaughan. 2020. Interpreting Interpretability: Understanding Data Scientists’ Use of Interpretability Tools for Machine Learning. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–14. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3313831.3376219
+-------------------------------------
+
+Sheet Title: Trust
+
+Jaimie Drozdal, Justin Weisz, Dakuo Wang, Gaurav Dass, Bingsheng Yao, Changruo Zhao, Michael Muller, Lin Ju, and Hui Su. 2020. Trust in AutoML: exploring information needs for establishing trust in automated machine learning systems. In Proceedings of the 25th International Conference on Intelligent User Interfaces (IUI ’20). Association for Computing Machinery, New York, NY, USA, 297–307. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3377325.3377501
+-------------------------------------
+
+Sheet Title: Trust
+
+Joy Lu, Dokyun (DK) Lee, Tae Wan Kim, and David Danks. 2020. Good Explanation for Algorithmic Transparency. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES ’20). Association for Computing Machinery, New York, NY, USA, 93. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3375627.3375821
+-------------------------------------
+
+Sheet Title: Trust
+
+José Mena Roldán, Oriol Pujol Vila, and Jordi Vitrià Marca. 2020. Dirichlet uncertainty wrappers for actionable algorithm accuracy accountability and auditability. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* ’20). Association for Computing Machinery, New York, NY, USA, 581. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3351095.3372825
+-------------------------------------
+
+Sheet Title: Trust
+
+Georgina Peake and Jun Wang. 2018. Explanation Mining: Post Hoc Interpretability of Latent Factor Models for Recommendation Systems. In Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD ’18). Association for Computing Machinery, New York, NY, USA, 2060–2069. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3219819.3220072
+-------------------------------------
+
+Sheet Title: Trust
+
+Marco Tulio Ribeiro, Sameer Singh, and Carlos Guestrin. 2016. “Why Should I Trust You?”: Explaining the Predictions of Any Classifier. In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD ’16). Association for Computing Machinery, New York, NY, USA, 1135–1144. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/2939672.2939778
+-------------------------------------
+
+Sheet Title: Trust
+
+Sarah Ali Siddiqui, Adnan Mahmood, Wei Emma Zhang, and Quan Z. Sheng. 2019. Poster: A Machine Learning based Hybrid Trust Management Heuristic for Vehicular Ad hoc Networks. In The 25th Annual International Conference on Mobile Computing and Networking (MobiCom ’19). Association for Computing Machinery, New York, NY, USA, Article 95, 1–3. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3300061.3343404
+-------------------------------------
+
+Sheet Title: Trust
+
+Brett W. Israelsen and Nisar R. Ahmed. 2019. “Dave...I can assure you ...that it’s going to be all right ...” A Definition, Case for, and Survey of Algorithmic Assurances in Human-Autonomy Trust Relationships. ACM Comput. Surv. 51, 6, Article 113 (February 2019), 37 pages. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3267338
+-------------------------------------
+
+Sheet Title: Trust
+
+Kaiping Zheng, Shaofeng Cai, Horng Ruey Chua, Wei Wang, Kee Yuan Ngiam, and Beng Chin Ooi. 2020. TRACER: A Framework for Facilitating Accurate and Interpretable Analytics for High Stakes Applications. In Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data (SIGMOD ’20). Association for Computing Machinery, New York, NY, USA, 1747–1763. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3318464.3389720
+-------------------------------------
+
+Sheet Title: Trust
+
+Ana Lucic, Hinda Haned, and Maarten de Rijke. 2020. Why does my model fail? contrastive local explanations for retail forecasting. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* ’20). Association for Computing Machinery, New York, NY, USA, 90–98. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3351095.3372824
+-------------------------------------
+
+Sheet Title: Trust
+
+Maria Panteli. 2019. Recommendation systems compliant with legal and editorial policies: the BBC+ app journey. In Proceedings of the 13th ACM Conference on Recommender Systems (RecSys ’19). Association for Computing Machinery, New York, NY, USA, 529. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3298689.3346961
+-------------------------------------
+
+Sheet Title: Dignity
+
+Reuben Binns, Max Van Kleek, Michael Veale, Ulrik Lyngs, Jun Zhao, and Nigel Shadbolt. 2018. “It’s Reducing a Human Being to a Percentage”: Perceptions of Justice in Algorithmic Decisions. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI ’18). Association for Computing Machinery, New York, NY, USA, Paper 377, 1–14. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3173574.3173951
+-------------------------------------
+
+Sheet Title: Risk
+
+Roel I.J. Dobbe, Thomas Krendl Gilbert, and Yonatan Mintz. 2020. Hard Choices in Artificial Intelligence: Addressing Normative Uncertainty through Sociotechnical Commitments. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES ’20). Association for Computing Machinery, New York, NY, USA, 242. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3375627.3375861
+-------------------------------------
+
+Sheet Title: Risk
+
+Derek Leben. 2020. Normative Principles for Evaluating Fairness in Machine Learning. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES ’20). Association for Computing Machinery, New York, NY, USA, 86–92. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3375627.3375808
+-------------------------------------
+
+Sheet Title: Risk
+
+Amanda Coston. 2019. Risk Assessments and Fairness Under Missingness and Confounding. In Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society (AIES ’19). Association for Computing Machinery, New York, NY, USA, 531. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3306618.3314310
+-------------------------------------
+
+Sheet Title: Risk
+
+Stephen Cave and Seán S. ÓhÉigeartaigh. 2018. An AI Race for Strategic Advantage: Rhetoric and Risks. In Proceedings of the 2018 AAAI/ACM Conference on AI, Ethics, and Society (AIES ’18). Association for Computing Machinery, New York, NY, USA, 36–40. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3278721.3278780
+-------------------------------------
+
+Sheet Title: Risk
+
+Alan Mishler. 2019. Modeling Risk and Achieving Algorithmic Fairness Using Potential Outcomes. In Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society (AIES ’19). Association for Computing Machinery, New York, NY, USA, 555–556. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3306618.3314323
+-------------------------------------
+
+Sheet Title: Risk
+
+Michael P. Kim, Amirata Ghorbani, and James Zou. 2019. Multiaccuracy: Black-Box Post-Processing for Fairness in Classification. In Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society (AIES ’19). Association for Computing Machinery, New York, NY, USA, 247–254. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3306618.3314287
+-------------------------------------
+
+Sheet Title: Risk
+
+Gunay Kazimzade and Milagros Miceli. 2020. Biased Priorities, Biased Outcomes: Three Recommendations for Ethics-oriented Data Annotation Practices. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES ’20). Association for Computing Machinery, New York, NY, USA, 71. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3375627.3375809
+-------------------------------------
+
+Sheet Title: Risk
+
+Dieter Vanderelst and Alan Winfield. 2018. The Dark Side of Ethical Robots. In Proceedings of the 2018 AAAI/ACM Conference on AI, Ethics, and Society (AIES ’18). Association for Computing Machinery, New York, NY, USA, 317–322. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3278721.3278726
+-------------------------------------
+
+Sheet Title: Risk
+
+Inioluwa Deborah Raji, Timnit Gebru, Margaret Mitchell, Joy Buolamwini, Joonseok Lee, and Emily Denton. 2020. Saving Face: Investigating the Ethical Concerns of Facial Recognition Auditing. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES ’20). Association for Computing Machinery, New York, NY, USA, 145–151. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3375627.3375820
+-------------------------------------
+
+Sheet Title: Risk
+
+Gemma Galdon Clavell, Mariano Martín Zamorano, Carlos Castillo, Oliver Smith, and Aleksandar Matic. 2020. Auditing Algorithms: On Lessons Learned and the Risks of Data Minimization. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES ’20). Association for Computing Machinery, New York, NY, USA, 265–271. DOI:https://doi-org.proxy3.library.mcgill.ca/10.1145/3375627.3375852
+-------------------------------------
+
+Sorted List of All DOI Counts:
+
+[('10.1145/3306618.3314293', 1), ('10.1145/3351095.3375666', 1), ('10.1145/3306618.3314322', 1), ('10.1145/1040830.1040911', 1), ('10.1145/3289402.3289549', 1), ('10.1145/3400051.3400058', 1), ('10.1145/3351095.3372850', 1), ('10.1145/3307339.3343255', 1), ('10.1145/3313831.3376615', 1), ('10.1007/s00779-016-0963-3', 1), ('10.1145/2666633.2666638', 1), ('10.1109/TCBB.2015.2462364', 1), ('10.1145/3181670', 1), ('10.1145/3377325.3377536', 1), ('10.1145/3375627.3375866', 1), ('10.1145/3219819.3219934', 1), ('10.1145/3301275.3302265', 1), ('10.1145/3184558.3186969', 1), ('10.1145/3375462.3375486', 1), ('Maya Gupta', 1), ('Andrew S.', 1), ('10.1145/3287560.3287596', 1), ('Fred Morst', 1), ('Marius Klo', 1), ('Constantin', 1), ('Ashley Pet', 1), ('Dimitris B', 1), ('10.1145/3277904', 1), ('10.1145/3334480.3382831', 1), ('10.1145/2612733.2612790', 1), ('10.1145/3351095.3375667', 1), ('10.1145/2746090.2746111', 1), ('10.1145/3208788.3208789', 1), ('10.1145/3383219.3383268', 1), ('10.1145/3107411.3107445', 1), ('10.1145/1866423.1866428', 1), ('10.1145/3328526.3329621', 1), ('10.1145/3339252.3340497', 1), ('10.1145/3085228.3085294', 1), ('10.1145/3318464.3380572', 1), ('10.1145/3341216.3342210', 1), ('10.1145/2818048.2820010', 1), ('10.1145/3377325.3377512', 1), ('10.1145/3379156.3391361', 1), ('10.1145/3375462.3375484', 1), ('10.1145/3336191.3372191', 1), ('10.1145/3381833', 1), ('10.1145/3319535.3363286', 1), ('10.1145/3292500.3330908', 1), ('10.1145/3366423.3380109', 1), ('10.1145/3373509.3373548', 1), ('10.1145/3297280.3297443', 1), ('10.1145/3301275.3302322', 1), ('10.1145/2532443.2532459', 1), ('10.1145/3375627.3375833', 1), ('10.1145/3375627.3375830', 1), ('10.1145/2808138.2808147', 1), ('Alexei Lap', 1), ('10.1145/3357384.3358155', 1), ('10.1145/3375627.3375856', 1), ('10.1145/3359789.3359808', 1), ('10.1145/3357384.3358017', 1), ('10.1145/3301275.3302317', 1), ('Avi Rosenf', 1), ('10.1109/TASLP.2017.2774919', 1), ('10.1145/3349263.3351325', 1), ('10.1145/3278721.3278776', 1), ('10.1145/1930321.1930377', 1), ('10.1145/3292500.3330857', 1), ('10.1145/2909824.3020230', 1), ('10.1145/2745844.2745896', 1), ('10.1145/2796314.2745896', 1), ('10.1145/3377325.3377524', 1), ('10.1145/3121283.3121293', 1), ('10.1145/3301275.3302316', 1), ('10.1145/2948992.2949015', 1), ('10.1145/3152178.3152191', 1), ('10.1145/3132218.3132240', 1), ('10.1145/3308557.3308702', 1), ('10.1145/1141277.1141417', 1), ('10.1145/3371382.3378252', 1), ('10.1145/3278721.3278725', 1), ('10.1145/3278532.3278562', 1), ('10.1145/3325112.3325247', 1), ('10.1162/EVCO_a_00155', 1), ('10.1145/3377325.3377491', 1), ('10.1145/3334480.3383051', 1), ('10.1145/3331184.3331377', 1), ('Shaull Alm', 1), ('10.1145/3372278.3390672', 1), ('10.1145/3366423.3380253', 1), ('10.1145/3334480.3382967', 1), ('10.1145/3351095.3375682', 1), ('10.1145/3301275.3302274', 1), ('10.1145/3344258', 1), ('10.1145/3306618.3314229', 1), ('10.1145/3242587.3242666', 1), ('10.1145/3203217.3203271', 1), ('10.1145/3384657.3384799', 1), ('10.1145/3025171.3025173', 1), ('10.1145/2678025.2701406', 1), ('10.1145/2449396.2449405', 1), ('10.1145/3301402', 1), ('Ning Wang,', 1), ('10.1145/3321335.3324947', 1), ('10.1145/3242969.3242978', 1), ('10.1145/2959100.2959158', 1), ('10.1145/3314183.3324977', 1), ('10.1145/2959100.2959173', 1), ('10.1145/3290605.3300789', 1), ('R. El Shaw', 1), ('A. R. Kalu', 1), ('J. H. Bren', 1), ('M. Zakersh', 1), ('J. Kacprzy', 1), ('M. J. Ariz', 1), ('P. Sitikhu', 1), ('W. L. Tung', 1), ('N. Burkart', 1), ('A. Ghandar', 1), ('A. Messala', 1), ('T. Han, J.', 1), ('M. Alshamm', 1), ('S. Yang an', 1), ('S. Murabay', 1), ('R. Kustra', 1), ('Q. Wang, H', 1), ('Shang-Ming', 1), ('T. Spinner', 1), ('U. Schlege', 1), ('Y. Xie, D.', 1), ('Y. Yu, C.', 1), ('A. Schulz,', 1), ('S. M. Hamd', 1), ('10.1109/ASE.2019.00014', 1), ('10.1109/ICASSP.2019.8683043', 1), ('10.1109/FUZZ-IEEE.2019.8858911', 1), ('10.1109/SMC.2019.8913901', 1), ('10.1109/IFSA-NAFIPS.2013.6608572', 1), ('10.1109/TIP.2018.2845100', 1), ('10.1109/FUZZY.2006.1681903', 1), ('10.1109/ICDE.2019.00207', 1), ('10.1109/TFUZZ.2018.2861726', 1), ('10.1109/ICASSP.2019.8683603', 1), ('10.1109/ICDE.2018.00052', 1), ('10.1109/TAFFC.2020.2973984', 1), ('10.1109/FSKD.2007.186', 1), ('10.1109/PERCOMW.2019.8730809', 1), ('10.1109/KSE.2018.8573365', 1), ('10.1109/FG.2018.00116', 1), ('10.1109/FUZZY.2008.4630586', 1), ('10.1109/SSCI.2015.56', 1), ('10.1109/JBHI.2019.2937803', 1), ('10.1109/ICMLC.2014.7009697', 1), ('10.1109/TFUZZ.2012.2182774', 1), ('10.1145/3351095.3372838', 1), ('10.1145/3292500.3332280', 1), ('10.1145/3289600.3291383', 1), ('10.1145/3287560.3287575', 1), ('10.1145/3351095.3373157', 1), ('10.1145/3375627.3375819', 1), ('10.1145/3290605.3300830', 1), ('10.1145/3306618.3314262', 1), ('10.1145/3351095.3372831', 1), ('10.1145/3306618.3314324', 1), ('10.1145/3287560.3287589', 1), ('10.1145/3308560.3320101', 1), ('10.1145/3308560.3320086', 1), ('10.1145/3287560.3287592', 1), ('10.1145/3306618.3314275', 1), ('10.1145/3287560.3287600', 1), ('10.1145/3292500.3330664', 1), ('10.1145/3375627.3375865', 1), ('10.1145/3368555.3384448', 1), ('10.1145/3352631.3352639', 1), ('10.1145/3351095.3372864', 1), ('10.1145/3278721.3278729', 1), ('Arpita Bis', 1), ('10.1145/3375627.3375828', 1), ('10.1145/3351095.3375680', 1), ('10.1145/3287560.3287564', 1), ('10.1145/3306618.3314308', 1), ('10.1145/3306618.3314234', 1), ('10.1145/3331184.3331380', 1), ('10.1145/3366424.3383558', 1), ('10.1145/3298689.3346964', 1), ('10.1145/3375627.3375854', 1), ('10.1145/3386687', 1), ('10.1145/3334480.3375059', 1), ('Austin J.', 1), ('10.1145/3351095.3372843', 1), ('10.1145/3351095.3372863', 1), ('10.1145/3278721.3278742', 1), ('10.1145/3318464.3383129', 1), ('10.1145/3219166.3219236', 1), ('10.1145/3351095.3372867', 1), ('10.1145/3303772.3303791', 1), ('10.1145/3306618.3314243', 1), ('10.1145/3306618.3314236', 1), ('10.1145/3306618.3314266', 1), ('10.1145/3308560.3317593', 1), ('10.1145/3278721.3278733', 1), ('10.1145/3375627.3375832', 1), ('10.1145/3308558.3313723', 1), ('10.1145/3299869.3319901', 1), ('10.1145/3306618.3314277', 1), ('10.1145/3278156', 1), ('10.1145/3313831.3376445', 1), ('10.1145/3351095.3372828', 1), ('10.1145/3351095.3375670', 1), ('10.1145/3375627.3375862', 1), ('10.1145/3375627.3375869', 1), ('10.1145/3292500.3330745', 1), ('10.1145/3097983.3098066', 1), ('10.1145/2090236.2090255', 1), ('10.1145/3294052.3322192', 1), ('Murat Sens', 1), ('10.1145/3287560.3287571', 1), ('10.1145/3351095.3372857', 1), ('10.1145/2783258.2783311', 1), ('10.1145/3351095.3375672', 1), ('Rachel Cum', 1), ('10.1145/3351095.3375623', 1), ('10.1145/1243401.1243405', 1), ('10.1145/3219819.3220046', 1), ('10.1145/3290607.3299057', 1), ('10.1145/3351095.3372847', 1), ('10.1145/3375627.3375823', 1), ('10.1145/3351095.3375673', 1), ('10.1145/3109859.3109887', 1), ('10.1145/1141277.1141411', 1), ('10.1145/3375627.3375818', 1), ('John D. Bu', 1), ('10.1145/3178876.3186138', 1), ('10.1145/3287560.3287561', 1), ('10.1145/3359152', 1), ('10.1145/3375627.3375848', 1), ('10.1145/3289600.3291002', 1), ('10.1145/3334480.3382790', 1), ('10.1145/3375627.3375839', 1), ('10.1145/3359246', 1), ('10.1145/3313831.3376788', 1), ('10.1145/3109859.3109960', 1), ('10.1145/3375627.3375875', 1), ('10.1145/2959100.2959199', 1), ('10.1109/ICASSP.2019.8682620', 1), ('10.1109/JBHI.2015.2431314', 1), ('10.1109/ICWAPR48189.2019.8946468', 1), ('missing', 1), ('10.1109/RIOS.2016.7529510', 1), ('10.1109/CVPR.2019.00980', 1), ('10.1109/ICCSEE.2012.62', 1), ('10.1109/MSP.2018.2701149', 1), ('10.1109/TG.2018.2883773', 1), ('10.1109/SCET.2012.6342143', 1), ('10.1109/CCDC.2016.7532240', 1), ('10.1109/IHMSC.2015.181', 1), ('10.1109/CIET.2018.8660777', 1), ('10.1109/AVSS.2016.7738061', 1), ('10.1109/BigData.2018.8622343', 1), ('10.1109/TSE.2019.2962027', 1), ('10.1145/2908131.2908134', 1), ('10.1145/3295500.3356177', 1), ('10.1145/3383972.3384012', 1), ('Thayanne F', 1), ('Javier Gar', 1), ('10.1145/2157689.2157698', 1), ('10.1145/3338906.3342812', 1), ('10.1145/3029798.3038428', 1), ('10.1145/3029798.3038412', 1), ('10.1145/2393091.2393123', 1), ('10.1145/2377576.2377598', 1), ('10.1007/s00779-019-01236-x', 1), ('10.1145/3366424.3383557', 1), ('Robin Murp', 1), ('10.1145/3371382.3378381', 1), ('10.1145/3358230', 1), ('10.1145/3306618.3314237', 1), ('10.1109/ICSE.2019.00108', 1), ('10.1145/3379336.3381509', 1), ('10.1145/3171221.3171257', 1), ('10.1145/3306618.3317950', 1), ('10.1145/3029798.3038404', 1), ('10.1145/3173386.3176991', 1), ('10.1145/3375627.3375872', 1), ('10.1145/3341981.3344239', 1), ('10.1145/3278721.3278723', 1), ('Sarah Stro', 1), ('10.1145/3318464.3380604', 1), ('10.1145/3029798.3034802', 1), ('10.1145/3360567', 1), ('10.1109/RoSE.2019.00006', 1), ('10.1145/3368554', 1), ('10.1145/1349822.1349836', 1), ('10.1145/2959100.2959101', 1), ('10.1145/3375627.3375873', 1), ('10.1145/3299869.3314327', 1), ('10.1145/3158373', 1), ('10.1145/3319502.3374839', 1), ('10.1145/3290607.3310433', 1), ('10.1145/3322276.3322304', 1), ('10.1145/3183324', 1), ('10.1145/3287560.3287563', 1), ('10.1145/3375627.3375804', 1), ('10.1145/2872427.2883018', 1), ('10.1145/2157689.2157696', 1), ('10.1145/3325112.3325230', 1), ('10.1145/3357384.3358173', 1), ('10.1145/3199478.3199486', 1), ('10.1145/3140649.3140655', 1), ('Yu-Xiang W', 1), ('10.1145/2996758.2996765', 1), ('10.1145/2517312.2517317', 1), ('10.1145/3374664.3375730', 1), ('10.1145/3278721.3278778', 1), ('10.1145/3319535.3354211', 1), ('10.1109/ISC2.2018.8656877', 1), ('10.1109/GlobalSIP45357.2019.8969527', 1), ('10.1109/ICMEW.2015.7169753', 1), ('10.23919/ITUK48006.2019.8996131', 1), ('10.1109/ICCCBDA.2017.7951949', 1), ('10.1109/UEMCON.2018.8796620', 1), ('10.1109/ISPDC2018.2018.00022', 1), ('10.1109/TPS-ISA48467.2019.00035', 1), ('10.1109/JIOT.2019.2942165', 1), ('10.1109/ACCESS.2019.2938759', 1), ('10.1109/ICMLC.2006.258592', 1), ('10.1109/iSAI-NLP48611.2019.9045374', 1), ('10.1109/MIPRO.2016.7522351', 1), ('10.1109/ICASSP.2017.7953387', 1), ('10.1109/HiPCW.2018.8634280', 1), ('10.1109/SNPD.2008.155', 1), ('10.1109/GLOCOM.2018.8647189', 1), ('10.1109/ISIT.2018.8437722', 1), ('10.1145/3240765.3274560', 1), ('10.1109/TIFS.2020.2976612', 1), ('10.1109/ICCCN.2016.7568482', 1), ('10.1109/ICDCS.2019.00121', 1), ('10.1109/HPCC-SmartCity-DSS.2016.0202', 1), ('10.1109/ICCSNT47585.2019.8962514', 1), ('10.1109/SP.2015.35', 1), ('10.1109/JIOT.2019.2940820', 1), ('10.1109/CCNC46108.2020.9045112', 1), ('10.1109/ICDCS.2017.215', 1), ('10.1109/CVPRW.2018.00087', 1), ('10.1109/ACCESS.2020.2972055', 1), ('10.1145/3368958', 1), ('Zachary He', 1), ('10.1145/3284869.3284897', 1), ('10.1145/3139531.3139537', 1), ('10.1145/3377325.3377538', 1), ('10.1145/3364183.3364195', 1), ('10.1145/3301275.3308446', 1), ('10.1145/3349537.3352767', 1), ('10.1145/3290605.3300509', 1), ('10.1145/3302425.3302480', 1), ('10.1145/3321705.3331005', 1), ('10.1145/3290605.3300469', 1), ('10.1145/3239060.3239064', 1), ('10.1145/3128572.3140450', 1), ('10.1145/2209310.2209315', 1), ('10.1145/3010915.3011004', 1), ('10.1145/3377325.3377480', 1), ('Liu Xin, G', 1), ('10.1145/3369457.3369509', 1), ('10.1145/3313831.3376783', 1), ('10.1145/3270323.3270327', 1), ('10.1145/3328519.3329126', 1), ('10.1145/3290605.3300234', 1), ('10.1145/3027063.3027091', 1), ('10.1109/AIMSEC.2011.6011481', 1), ('10.1109/SNPD.2007.325', 1), ('10.1109/TALE.2018.8615413', 1), ('10.1109/TrustCom.2014.13', 1), ('10.1109/IOLTS.2013.6604083', 1), ('10.1109/INFOCOM.2019.8737469', 1), ('10.1109/INFCOMW.2019.8845219', 1), ('10.1109/ACCESS.2019.2933147', 1), ('10.1109/NITC.2018.8550080', 1), ('10.1109/TrustCom.2013.5', 1), ('10.1109/ACCESS.2019.2960367', 1), ('10.1109/ACCESS.2019.2957779', 1), ('10.1109/SASOW.2011.20', 1), ('10.1109/MILCOM47813.2019.9020774', 1), ('10.1109/ACCESS.2020.2978452', 1), ('10.1109/BigData47090.2019.9005597', 1), ('10.1109/NAECON.2012.6531028', 1), ('10.1109/MNET.001.1800535', 1), ('10.1109/COMPSAC.2016.86', 1), ('10.1109/ACCESS.2018.2869699', 1), ('10.1109/FRUCT-ISPIT.2016.7561551', 1), ('10.1109/ISSPIT47144.2019.9001743', 1), ('10.1109/BLOC.2019.8751387', 1), ('10.1109/SNPD.2015.7176248', 1), ('10.1109/FUZZ-IEEE.2019.8858994', 1), ('10.1109/ISSPIT.2018.8705147', 1), ('10.1109/CBMS.2019.00065', 1), ('10.1109/WI-IAT.2009.195', 1), ('10.1109/CICN.2015.334', 1), ('10.1109/MODELS-C.2019.00095', 1), ('10.1109/VR46266.2020.00099', 1), ('10.1109/ACCESS.2019.2957191', 1), ('10.1109/HRI.2016.7451741', 1), ('10.1109/TVCG.2019.2934629', 1), ('10.1145/2189736.2189747', 1), ('10.1109/ITME.2019.00131', 1), ('10.1109/MICAI.2009.15', 1), ('10.1109/AIHAS.1993.410577', 1), ('Mark Valov', 1), ('10.1145/3240323.3240411', 1), ('10.1145/3184558.3186977', 1), ('Nataly Bru', 1), ('10.1109/AICI.2009.189', 1), ('10.1109/JSAC.2018.2864373', 1), ('10.1109/EUC.2014.41', 1), ('10.1109/ISAP.2009.5352891', 1), ('10.1109/ACCESS.2018.2797976', 1), ('Taranjeet', 1), ('10.1145/2696454.2696476', 1), ('10.1145/3375627.3375816', 1), ('10.1145/3171221.3171282', 1), ('10.1145/3306618.3314285', 1), ('10.1145/3371425.3371476', 1), ('10.1145/3341042.3341057', 1), ('10.1145/3375627.3375857', 1), ('10.1145/3351095.3372836', 1), ('10.1145/2874239.2874270', 1), ('10.1145/3359249', 1), ('10.1145/3351095.3373152', 1), ('10.1145/3375627.3375835', 1), ('10.1145/3287560.3287591', 1), ('10.1145/3306618.3314289', 1), ('10.1145/3322276.3323697', 1), ('10.1145/3375627.3375813', 1), ('10.1145/3278721.3278788', 1), ('10.1145/3278721.3278786', 1), ('10.1145/3363384.3363393', 1), ('10.1145/3368073', 1), ('10.1145/3362077.3362087', 1), ('10.1145/3278721.3278806', 1), ('10.1145/3278721.3278801', 1), ('Andreas Hu', 1), ('10.1145/3351095.3375665', 1), ('10.1145/3375627.3375863', 1), ('10.1145/3375627.3375806', 1), ('10.1145/3173574.3174014', 1), ('10.1109/ICITBS.2019.00064', 1), ('10.1109/ICICCS.2016.7542339', 1), ('10.1109/WEEF.2017.8466973', 1), ('10.1109/ICE.2018.8436265', 1), ('10.1109/TAAI48200.2019.8959925', 1), ('10.1109/ICACCS48705.2020.9074237', 1), ('10.1109/IISR.2018.8535903', 1), ('10.1109/IHTC.2017.8058187', 1), ('10.1109/ISTAS48451.2019.8937942', 1), ('10.1109/ComSDS49898.2020.9101238', 1), ('10.1109/PICMET.2016.7806752', 1), ('Thomas H.', 1), ('10.1109/HST47167.2019.9032907', 1), ('10.1109/MSEC.2018.2888778', 1), ('10.1109/MPULS.2020.2993667', 1), ('10.1109/MTS.2019.2894474', 1), ('10.1109/MS.2020.2985621', 1), ('10.23919/ITU-WT.2018.8597767', 1), ('10.1109/ARSO46408.2019.8948762', 1), ('10.1109/MRA.2017.2781543', 1), ('10.1109/SmartWorld-UIC-ATC-SCALCOM-IOP-SCI.2019.00096', 1), ('10.1145/3322640.3326705', 2), ('10.1145/3340470.3340477', 2), ('10.1145/3313831.3376219', 2), ('10.1145/3386296.3386300', 2), ('10.1145/3292522.3326012', 2), ('10.1145/3377325.3377501', 2), ('10.1145/3308532.3329441', 2), ('10.1145/3351095.3372870', 2), ('10.1145/3375627.3375812', 2), ('10.1145/3351095.3375663', 2), ('10.1145/3393672.3398491', 2), ('10.1145/3366424.3383110', 2), ('10.1145/3385008', 2), ('Sule Anjom', 2), ('10.1145/3375627.3375821', 2), ('10.1145/3183399.3183424', 2), ('10.1145/3351095.3372824', 2), ('10.1145/3219819.3220072', 2), ('10.1145/3351095.3375664', 2), ('10.1145/2939672.2939778', 2), ('10.1145/3328747', 2), ('10.1145/3306618.3314235', 2), ('10.1145/3243734.3243792', 2), ('10.1145/3318464.3389720', 2), ('10.1145/3351095.3375683', 2), ('10.1145/3306618.3314244', 2), ('10.1145/3375627.3375852', 2), ('10.1145/3323994.3371015', 2), ('10.1145/3287560.3287595', 2), ('10.1145/3371382.3377441', 2), ('10.1109/ICDE.2019.00245', 2), ('10.1145/3375627.3375808', 2), ('10.1145/3306618.3314310', 2), ('10.1145/3238147.3238165', 2), ('10.1145/3306618.3314323', 2), ('10.1145/3351095.3372845', 2), ('10.1145/3287560.3287584', 2), ('10.1145/3347447.3356752', 2), ('10.1145/3287560.3287567', 2), ('10.1145/3351095.3372878', 2), ('10.1145/3219819.3220087', 2), ('10.1145/3341525.3393998', 2), ('10.1145/3389189.3397990', 2), ('10.1145/3375627.3375860', 2), ('10.1145/3306618.3314270', 2), ('10.1145/3308560.3317584', 2), ('10.1145/3375627.3375861', 2), ('10.1145/3300061.3343404', 2), ('10.1145/3278721.3278780', 2), ('10.1145/3278721.3278726', 2), ('10.1145/3158371', 2), ('Kamalika C', 2), ('10.1145/2996758.2996762', 2), ('10.1145/3243734.3243855', 2), ('10.1145/2808769.2808775', 2), ('10.1145/3316782.3321521', 2), ('10.1145/3363347.3363357', 2), ('10.1145/3306618.3314316', 3), ('10.1145/3351095.3372862', 3), ('10.1145/3351095.3372873', 3), ('10.1145/3292500.3332281', 3), ('10.1145/3351095.3372827', 3), ('10.1145/3267338', 3), ('10.1145/3351095.3375686', 3), ('10.1145/3351095.3372825', 3), ('10.1145/3379336.3379361', 3), ('10.1145/3351095.3372875', 3), ('10.1145/3298689.3346961', 3), ('Nikolas Ma', 3), ('10.1145/3313831.3376175', 3), ('10.1145/2463372.2463382', 3), ('10.1145/3375627.3375850', 3), ('10.1145/2930238.2930287', 3), ('10.1145/3375627.3375874', 3), ('10.1145/3365668', 3), ('10.1145/3375462.3375520', 3), ('10.1145/3359789.3359798', 3), ('Alberto Ca', 3), ('10.1145/2856767.2856811', 3), ('10.1145/3173574.3173849', 3), ('10.1145/3351095.3375689', 3), ('10.1145/2166966.2166996', 3), ('10.1145/3351095.3375688', 3), ('10.1145/3173574.3173951', 3), ('10.1145/3375627.3375820', 3), ('10.1145/3306618.3314287', 4), ('10.1145/3375627.3375809', 4), ('Chih-Hong', 4)]
