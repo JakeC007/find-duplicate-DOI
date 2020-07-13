@@ -13,7 +13,6 @@ def main():
     sb = copy(wb) #sb is the excell sheet to save
     delLST = []
 
-
     #loop through the three sheets
     for i in range(wb.nsheets-1): #TODO SUB IN wb.nsheets-1
         sheet = wb.sheet_by_index(i)
@@ -35,6 +34,32 @@ def main():
         printCell(wb, index, row, col)
         deleteCell(sb, index, row, col)
 
+    while(True):
+        cmd = input("\n\nPlease enter doi to see all entries or type 'q' to exit: ")
+        if cmd == "q":
+            break
+        else:
+            showDups(wb, cmd)
+
+
+"""
+Prints out the cells that contain a given doi
+@param: wb - read from the workbook
+@param: doi
+@return: NONE
+"""
+def showDups(wb, doi):
+    try:
+        dupLST = locDict[doi]
+    except:
+        return
+    print("There are %d cells with that doi" %(len(dupLST)))
+    for entry in dupLST:
+        index, row, col = entry
+        printCell(wb, index, row, col)
+    print("*-"*20)
+    return
+
 """
 Overwrites a cell.
 @param: index - the sheet's index in the excell file. Sheet 1 is index = 0
@@ -46,7 +71,6 @@ def deleteCell(sb, index, row, col):
     sheet = sb.get_sheet(index)
     sheet.write(row, col, "overwritten")
     sb.save('RAISE_MERGED.xls')
-
 
 """
 prints out a cell and the sheet it is from
@@ -63,8 +87,6 @@ def printCell(wb, index, row, col):
     print("Sheet Title: %s\n" %(sheetName[index]))
     print(cell)
     print("-------------------------------------\n")
-
-
 
 """
 This fcn uses regex to grab the doi number and add it to the global hashtable
