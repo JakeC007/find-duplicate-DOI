@@ -45,7 +45,7 @@ Overwrites a cell.
 def deleteCell(sb, index, row, col):
     sheet = sb.get_sheet(index)
     sheet.write(row, col, "overwritten")
-    sb.save('RAISE_MERGED.xlsx')
+    sb.save('RAISE_MERGED.xls')
 
 
 """
