@@ -19,20 +19,19 @@ def main():
         for col in range(1,3): # cols B & C
             for row in range(4, sheet.nrows):
                 cell = sheet.cell_value(row, col)
-                del_flag = extractDOI(cell, i, row, col)
+                del_flag, doi = extractDOI(cell, i, row, col)
                 #cell is dup, grab for deletion lst
                 if del_flag:
-                    delLST.append([i, row, col])
+                    delLST.append([i, row, col, doi])
 
     print("There are %d citations" %(len(doiDict)))
     print("There are %d duplicates" %(len(delLST)))
     print(sorted(doiDict.items(), key=lambda x: x[1]))
-    # print(delLST)
     print("List of Duplicates:")
     for entry in delLST:
-        index, row, col = entry
+        index, row, col, doi = entry
         printCell(wb, index, row, col)
-        deleteCell(sb, index, row, col)
+        deleteCell(sb, index, row, col, doi)
 
     while(True):
         cmd = input("\n\nPlease enter doi to see all entries or type 'q' to exit: ")
@@ -65,11 +64,12 @@ Overwrites a cell.
 @param: index - the sheet's index in the excell file. Sheet 1 is index = 0
 @param: row
 @param: col
+@param: doi
 @param: sb - the write to workbook
 """
-def deleteCell(sb, index, row, col):
+def deleteCell(sb, index, row, col, doi):
     sheet = sb.get_sheet(index)
-    sheet.write(row, col, "overwritten")
+    sheet.write(row, col, "overwritten.\nOrginal DOI: %s" %(doi))
     sb.save('RAISE_MERGED.xls')
 
 """
@@ -92,13 +92,12 @@ def printCell(wb, index, row, col):
 This fcn uses regex to grab the doi number and add it to the global hashtable
 @param: cell with citation data
 @ret:
-- True if doi is already in hashtable
-- False if doi is new
+- True if doi is already in hashtable OR False if doi is new
+- doi
 """
 def extractDOI(cell, sheet, row, col):
     if cell == "":
-        return False
-    #print(cell)
+        return False, None
 
     chunkACM = re.search('.ca/(.*)', cell) #search for the doi ACM style
     if chunkACM:
@@ -108,20 +107,15 @@ def extractDOI(cell, sheet, row, col):
         if chunkIEEE:  #it must be IEEE style
             doi = chunkIEEE.group(1)
         else:
-            # print("-----------------------------------------")
-            # print("NO DOI IN IEE OR ACM")
-            # print(cell)
-            # print("-------------------------------------------")
-            # time.sleep(5)
-            doi = cell[0:10]
+            doi = cell[0:20]
 
     doi = doi.strip()
     global doiDict, locDict
     doiDict[doi] = doiDict.setdefault(doi, 0) + 1
     locDict[doi].append([sheet, row, col])
     if doiDict[doi] > 1:
-        return True # this doi is a duplicate
+        return True, doi # this doi is a duplicate
     else:
-        return False
+        return False, doi
 
 main()
