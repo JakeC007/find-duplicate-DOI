@@ -1,3 +1,12 @@
+"""
+A fun lil program that reads in an .xlsx file and grabs data from relevant cells
+it then uses regex to hunt for DOIs which it uses to find and overwrite
+duplicate citations.
+
+Author: Jake Chanenson
+Date: July 10, 2020
+Written for the RASE Lab
+"""
 import re
 import xlrd, xlwt, xlutils
 import time
@@ -8,16 +17,16 @@ from xlutils.copy import copy
 def main():
     global doiDict, locDict
     doiDict= {}
-    locDict = defaultdict(list) #TODO FINISH BELOW
+    locDict = defaultdict(list)
     wb = xlrd.open_workbook("RAISE_NO_MERGE.xlsx")
     sb = copy(wb) #sb is the excell sheet to save
     delLST = []
 
-    #loop through the three sheets
-    for i in range(wb.nsheets-1): #TODO SUB IN wb.nsheets-1
+    #loop through every sheet except for last because it has stats on it
+    for i in range(wb.nsheets-1):
         sheet = wb.sheet_by_index(i)
         for col in range(1,3): # cols B & C
-            for row in range(4, sheet.nrows):
+            for row in range(4, sheet.nrows): #start in row 5 b/c header
                 cell = sheet.cell_value(row, col)
                 del_flag, doi = extractDOI(cell, i, row, col)
                 #cell is dup, grab for deletion lst
@@ -33,6 +42,7 @@ def main():
         printCell(wb, index, row, col)
         deleteCell(sb, index, row, col, doi)
 
+    #a dash of interactivity to view a doi's duplicates
     while(True):
         cmd = input("\n\nPlease enter doi to see all entries or type 'q' to exit: ")
         if cmd == "q":
