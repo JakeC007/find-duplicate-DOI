@@ -36,3 +36,11 @@ Since, I wrote this as a quick and dirt solution to merge duplicate DOIs, the sc
    - xlwt 
    - xlutils
 4. Run the program: `python3 mergeDOI.py`
+
+## Usage
+### Duplicate Citation Viewer
+Once the script has completed writing a new `.xls` document, a prompt will appear in the terminal asking for a doi number: Press "q" if you want the program to exit. If you are curious about where the duplicates are for a given doi number simply input a doi. 
+
+Example:
+
+![example of duplicate dois shown](\imgs\dup_example.png)
