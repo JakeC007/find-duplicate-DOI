@@ -50,14 +50,13 @@ def main():
         else:
             showDups(wb, cmd)
 
-
-"""
-Prints out the cells that contain a given doi
-@param: wb - read from the workbook
-@param: doi
-@return: NONE
-"""
 def showDups(wb, doi):
+    """
+    Prints out the cells that contain a given doi
+    @param: wb - read from the workbook
+    @param: doi
+    @return: NONE
+    """
     try:
         dupLST = locDict[doi]
     except:
@@ -69,28 +68,28 @@ def showDups(wb, doi):
     print("*-"*20)
     return
 
-"""
-Overwrites a cell.
-@param: index - the sheet's index in the excell file. Sheet 1 is index = 0
-@param: row
-@param: col
-@param: doi
-@param: sb - the write to workbook
-"""
 def deleteCell(sb, index, row, col, doi):
+    """
+    Overwrites a cell.
+    @param: index - the sheet's index in the excell file. Sheet 1 is index = 0
+    @param: row
+    @param: col
+    @param: doi
+    @param: sb - the write to workbook
+    """
     sheet = sb.get_sheet(index)
     sheet.write(row, col, "overwritten.\nOrginal DOI: %s" %(doi))
     sb.save('RAISE_MERGED.xls')
 
-"""
-prints out a cell and the sheet it is from
-@param: index - the sheet's index in the excell file. Sheet 1 is index = 0
-@param: row
-@param: col
-@param: wb - read from the workbook
-@return: NONE
-"""
 def printCell(wb, index, row, col):
+    """
+    prints out a cell and the sheet it is from
+    @param: index - the sheet's index in the excell file. Sheet 1 is index = 0
+    @param: row
+    @param: col
+    @param: wb - read from the workbook
+    @return: NONE
+    """
     sheet = wb.sheet_by_index(index)
     cell = sheet.cell_value(row, col)
     sheetName = wb.sheet_names()
@@ -98,14 +97,14 @@ def printCell(wb, index, row, col):
     print(cell)
     print("-------------------------------------\n")
 
-"""
-This fcn uses regex to grab the doi number and add it to the global hashtable
-@param: cell with citation data
-@ret:
-- True if doi is already in hashtable OR False if doi is new
-- doi
-"""
 def extractDOI(cell, sheet, row, col):
+    """
+    This fcn uses regex to grab the doi number and add it to the global hashtable
+    @param: cell with citation data
+    @ret:
+    - True if doi is already in hashtable OR False if doi is new
+    - doi
+    """
     if cell == "":
         return False, None
 
