@@ -18,7 +18,7 @@ This script reads in an `.xlsx` file and reads the B and C columns of each sheet
 
 ## Make This Script Work For You
 
-Since, I wrote this as a quick and dirt solution to merge duplicate DOIs, the script is brittle. If you want to use it to merge your own duplicate DOIs -- or other identifiable trait -- you need to do the following:
+Since I wrote this as a quick and dirty solution to merge duplicate DOIs, the script is brittle. If you want to use it to merge your own duplicate DOIs -- or other identifiable trait -- you need to do the following:
 
 * Edit the `col` iterator to reflect which columns you want the script to read. 
   * Tip: Indexing starts at 0, so column A is 0, column B is 1, and so on.
