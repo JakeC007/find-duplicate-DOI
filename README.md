@@ -43,4 +43,4 @@ Once the script has completed writing a new `.xls` document, a prompt will appea
 
 Example:
 
-![example of duplicate dois shown](./imgs/dup_example.png)
+![example of duplicate dois shown](./imgs/dup_example.PNG)
